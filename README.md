@@ -1,6 +1,6 @@
 # Real Links Code Challenge
 
-Thank you for interest in a position with the Engineering team at Real Links!
+Thank you for your interest in a position with the Engineering team at Real Links!
 
 In this repository, you will find the skeleton of a web application for finding anagrams of a given input.
 
@@ -32,5 +32,5 @@ An anagram is defined as a word formed by rearranging the letters of a different
 
 1. When the input is empty, the user should see no message or list of results.
 2. For the input “asdfghjk”, the user should see the message “No anagrams found”.
-3. For the input “steak”, the user should a list of result including the words: “Keats”, “skate”, “Skeat”, “stake”, “steak”, “takes”, “teaks”.
-4. For the input “eeenginr”, the user should a list of result including the words: “engineer”, “re-engine”.
+3. For the input “steak”, the user should see a list of results including the words: “Keats”, “skate”, “Skeat”, “stake”, “steak”, “takes”, “teaks”.
+4. For the input “eeenginr”, the user should see a list of results including the words: “engineer”, “re-engine”.
